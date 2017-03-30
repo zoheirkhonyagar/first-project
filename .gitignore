@@ -42,5 +42,10 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+<<<<<<< HEAD
 js/
 .idea/
+=======
+
+/js/
+>>>>>>> cf9ff4f85d3b39a6a17ca2a3c2fdedbc15cb6ccd
